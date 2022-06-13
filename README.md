@@ -34,7 +34,7 @@ H. Sato and H. Igarashi, “Three-dimensional Analysis of Soft Magnetic Composit
 H. Sato and H. Igarashi, “Deep learning-based surrogate model for fast multi-material topology optimization of IPM motor,” COMPEL, vol. 41, no. 3, pp. 900–914, 2021.
 H. Sato and H. Igarashi, “Fast Multi-objective Optimization of Electromagnetic Devices Using Adaptive Neural Network Surrogate Model,” IEEE Trans. Magn, vol. 58, no. 5, Art no. 8202209, 2022.<br>
 H. Sato and H. Igarashi, “Automatic Design of PM Motor Using Monte Carlo Tree Search in Conjunction with Topology Optimization,” IEEE Trans. Magn. (early access), doi: 10.1109/TMAG.2022.3164926, 2022.<br>
-(Conference proceedings)<br>
+#### (Conference proceedings)<br>
 H. Sato, S. Hiruma and H. Igarashi, “Multi-Phase Topology Optimization Using Radial Basis Function for Design of Permanent Magnet Motor,” Conference Proceedings in JSST2019, pp. 231–234, 2019.<br>
 H. Sato, S. Hiruma, and H. Igarashi, “Multi-material Topology Optimization of Permanent Magnet Motor with Arbitrary Adjacency Relationship of Materials,” Proc. CEFC2020, doi: 10.1109/CEFC46938.2020.9451380, 2021.<br>
 
