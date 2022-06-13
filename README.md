@@ -4,7 +4,10 @@
 Name: Hayaho SATO（佐藤駿輔，さとうはやほ）<br><br>
 Affiliation: Hokkaido University<br><br>
 Research: Topology optimization of motor using artificial intelligence / Modeling and analysis of magnetic composite using simulation<br><br>
-### What's Topology Optimization?
+### CODES
+Please refer to the repositories for my code! They include README.md, LICENSE, and code itself.<br>
+I'll share 1. optimization algorithms, 2. deep learning models implemented with PyTorch, and 3. kaggle daily.<br>
+### About My Research: What's Topology Optimization?
 Topology optimization is one of the promising options to optimize shape of machines e.g. motors.<br>It performs free transformation including generating and deleting holes. By generating many shapes, analyzing them and combining excellent ones, we can improve performance of machine.<br>We adapt finite element method (FEM) to evaluate shapes' performance, and genetic algorithm (GA) to generate great shapes.<br>Moreover, we use deep learning to acceralate optimization.<br><br><br>
 
 
