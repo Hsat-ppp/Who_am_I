@@ -31,7 +31,7 @@ I've learned PyTorch since 2020, and found that it's a sophisticated option for 
 ## Published Paper (2019-2022)
 H. Sato, A. Maruo, and H. Igarashi, “Analysis of nonlinear magnetic properties of soft magnetic composite using 2D and 3D discrete element methods,” IJAEM, vol. 64, no.1–4, pp. 483–492, 2020.<br>
 H. Sato and H. Igarashi, “Three-dimensional Analysis of Soft Magnetic Composite Using Discrete Element Method in Frequency Domain,” IEEE Tran. Magn, vol. 57, no. 6, Art. no. 2000504, 2021.<br>
-H. Sato and H. Igarashi, “Deep learning-based surrogate model for fast multi-material topology optimization of IPM motor,” COMPEL, vol. 41, no. 3, pp. 900–914, 2021.
+H. Sato and H. Igarashi, “Deep learning-based surrogate model for fast multi-material topology optimization of IPM motor,” COMPEL, vol. 41, no. 3, pp. 900–914, 2021.<br>
 H. Sato and H. Igarashi, “Fast Multi-objective Optimization of Electromagnetic Devices Using Adaptive Neural Network Surrogate Model,” IEEE Trans. Magn, vol. 58, no. 5, Art no. 8202209, 2022.<br>
 H. Sato and H. Igarashi, “Automatic Design of PM Motor Using Monte Carlo Tree Search in Conjunction with Topology Optimization,” IEEE Trans. Magn. (early access), doi: 10.1109/TMAG.2022.3164926, 2022.<br>
 #### (Conference proceedings)<br>
