@@ -72,6 +72,10 @@ H. Sato and H. Igarashi, “Automatic Design of PM Motor Using Monte-Carlo Tree 
 佐藤駿輔，「Excellent Presentation Award of Exercise in Technical English (Gold)」受賞，北海道大学工学部情報エレクトロニクス学科電気制御システムコース　科学技術英語演習，7月，2019．<br>
 
 
+## Others
+佐藤駿輔，「北海道大学DX博士人材フェローシップ」採用，3月，2022．<br>
+
+
 ## Related webpages
 Our lab.: https://hbd.ist.hokudai.ac.jp/index.html<br>
 My qiita webpage: https://qiita.com/shun310<br>
